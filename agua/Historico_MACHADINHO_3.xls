@@ -1,0 +1,1073 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nome</th><th scope="col">Cota (m)</th><th scope="col">Aflu&#234;ncia (m&#179;/s)</th><th scope="col">Deflu&#234;ncia (m&#179;/s)</th><th scope="col">Vaz&#227;o Vertida (m&#179;/s)</th><th scope="col">Vaz&#227;o Turbinada (m&#179;/s)</th><th scope="col">Vaz&#227;o Natural (m&#179;/s)</th><th scope="col">Volume &#218;til (%)</th><th scope="col">Vaz&#227;o Incremental (m&#179;/s)</th><th scope="col">Data da Medi&#231;&#227;o</th>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,16</td><td>198,24</td><td>305,00</td><td>0,00</td><td>305,00</td><td>397,26</td><td>51,45</td><td>44,90</td><td> 01/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,29</td><td>412,76</td><td>306,00</td><td>0,00</td><td>306,00</td><td>370,14</td><td>52,33</td><td>58,91</td><td> 02/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,36</td><td>360,48</td><td>303,00</td><td>0,00</td><td>303,00</td><td>358,99</td><td>52,80</td><td>61,04</td><td> 03/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,39</td><td>327,64</td><td>303,00</td><td>0,00</td><td>303,00</td><td>359,88</td><td>53,00</td><td>58,78</td><td> 04/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,29</td><td>220,88</td><td>303,00</td><td>0,00</td><td>303,00</td><td>339,40</td><td>52,33</td><td>48,14</td><td> 05/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,18</td><td>215,66</td><td>306,00</td><td>0,00</td><td>306,00</td><td>331,43</td><td>51,59</td><td>40,38</td><td> 06/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,99</td><td>149,98</td><td>306,00</td><td>0,00</td><td>306,00</td><td>315,59</td><td>50,31</td><td>36,73</td><td> 07/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,84</td><td>182,82</td><td>306,00</td><td>0,00</td><td>306,00</td><td>292,67</td><td>49,30</td><td>34,94</td><td> 08/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,78</td><td>256,73</td><td>306,00</td><td>0,00</td><td>306,00</td><td>270,12</td><td>48,90</td><td>36,34</td><td> 09/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,71</td><td>248,52</td><td>306,00</td><td>0,00</td><td>306,00</td><td>233,87</td><td>48,43</td><td>34,68</td><td> 10/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,68</td><td>281,36</td><td>306,00</td><td>0,00</td><td>306,00</td><td>202,02</td><td>48,23</td><td>25,80</td><td> 11/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,64</td><td>273,15</td><td>306,00</td><td>0,00</td><td>306,00</td><td>197,97</td><td>47,96</td><td>31,13</td><td> 12/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,57</td><td>248,52</td><td>306,00</td><td>0,00</td><td>306,00</td><td>209,30</td><td>47,49</td><td>35,95</td><td> 13/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,34</td><td>117,12</td><td>306,00</td><td>0,00</td><td>306,00</td><td>223,86</td><td>45,94</td><td>36,17</td><td> 14/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,15</td><td>152,98</td><td>309,00</td><td>0,00</td><td>309,00</td><td>240,37</td><td>44,66</td><td>34,61</td><td> 15/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,05</td><td>226,88</td><td>309,00</td><td>0,00</td><td>309,00</td><td>325,72</td><td>43,99</td><td>39,57</td><td> 16/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>471,82</td><td>124,86</td><td>309,00</td><td>0,00</td><td>309,00</td><td>508,79</td><td>42,49</td><td>38,15</td><td> 17/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>471,75</td><td>253,36</td><td>309,00</td><td>0,00</td><td>309,00</td><td>631,67</td><td>42,03</td><td>27,43</td><td> 18/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>471,95</td><td>467,97</td><td>309,00</td><td>0,00</td><td>309,00</td><td>747,47</td><td>43,33</td><td>20,18</td><td> 19/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,00</td><td>345,56</td><td>309,00</td><td>0,00</td><td>309,00</td><td>869,01</td><td>43,63</td><td>14,92</td><td> 20/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,17</td><td>451,79</td><td>309,00</td><td>0,00</td><td>309,00</td><td>770,55</td><td>44,80</td><td>8,79</td><td> 21/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,28</td><td>390,32</td><td>300,00</td><td>0,00</td><td>300,00</td><td>701,66</td><td>45,54</td><td>15,05</td><td> 22/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,47</td><td>463,03</td><td>307,00</td><td>0,00</td><td>307,00</td><td>628,96</td><td>46,82</td><td>17,15</td><td> 23/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,59</td><td>403,54</td><td>305,00</td><td>0,00</td><td>305,00</td><td>610,42</td><td>47,62</td><td>34,97</td><td> 24/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,74</td><td>428,17</td><td>305,00</td><td>0,00</td><td>305,00</td><td>660,14</td><td>48,63</td><td>40,12</td><td> 25/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,92</td><td>452,81</td><td>305,00</td><td>0,00</td><td>305,00</td><td>626,52</td><td>49,84</td><td>34,07</td><td> 26/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,03</td><td>395,34</td><td>305,00</td><td>0,00</td><td>305,00</td><td>550,77</td><td>50,58</td><td>31,87</td><td> 27/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,05</td><td>324,71</td><td>305,00</td><td>0,00</td><td>305,00</td><td>477,01</td><td>50,74</td><td>21,21</td><td> 28/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,09</td><td>334,56</td><td>305,00</td><td>0,00</td><td>305,00</td><td>430,17</td><td>50,98</td><td>23,05</td><td> 29/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,15</td><td>352,63</td><td>305,00</td><td>0,00</td><td>305,00</td><td>485,93</td><td>51,37</td><td>27,25</td><td> 30/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,22</td><td>364,12</td><td>305,00</td><td>0,00</td><td>305,00</td><td>571,98</td><td>51,86</td><td>39,14</td><td> 31/01/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,38</td><td>438,03</td><td>305,00</td><td>0,00</td><td>305,00</td><td>536,56</td><td>52,94</td><td>37,40</td><td> 01/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,56</td><td>444,89</td><td>302,00</td><td>0,00</td><td>302,00</td><td>493,46</td><td>54,11</td><td>45,79</td><td> 02/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,65</td><td>375,91</td><td>302,00</td><td>0,00</td><td>302,00</td><td>447,53</td><td>54,72</td><td>39,32</td><td> 03/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,59</td><td>253,73</td><td>303,00</td><td>0,00</td><td>303,00</td><td>431,82</td><td>54,31</td><td>36,79</td><td> 04/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,64</td><td>347,35</td><td>303,00</td><td>0,00</td><td>303,00</td><td>445,75</td><td>54,68</td><td>36,80</td><td> 05/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,83</td><td>455,74</td><td>303,00</td><td>0,00</td><td>303,00</td><td>466,02</td><td>55,93</td><td>42,21</td><td> 06/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,98</td><td>429,47</td><td>303,00</td><td>0,00</td><td>303,00</td><td>454,54</td><td>56,96</td><td>47,12</td><td> 07/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,25</td><td>531,30</td><td>303,00</td><td>0,00</td><td>303,00</td><td>415,31</td><td>58,83</td><td>55,64</td><td> 08/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,04</td><td>536,64</td><td>718,00</td><td>0,00</td><td>718,00</td><td>383,60</td><td>57,35</td><td>54,95</td><td> 09/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,76</td><td>502,41</td><td>730,00</td><td>0,00</td><td>730,00</td><td>377,11</td><td>55,48</td><td>36,95</td><td> 10/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,53</td><td>274,12</td><td>463,00</td><td>0,00</td><td>463,00</td><td>370,36</td><td>53,94</td><td>36,52</td><td> 11/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,29</td><td>188,92</td><td>386,00</td><td>0,00</td><td>386,00</td><td>367,55</td><td>52,33</td><td>35,95</td><td> 12/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,03</td><td>405,49</td><td>619,00</td><td>0,00</td><td>619,00</td><td>362,64</td><td>50,58</td><td>31,54</td><td> 13/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,69</td><td>459,80</td><td>739,00</td><td>0,00</td><td>739,00</td><td>350,13</td><td>48,29</td><td>44,49</td><td> 14/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,38</td><td>445,43</td><td>700,00</td><td>0,00</td><td>700,00</td><td>338,77</td><td>46,21</td><td>49,84</td><td> 15/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,12</td><td>433,21</td><td>650,00</td><td>0,00</td><td>650,00</td><td>348,08</td><td>44,44</td><td>52,93</td><td> 16/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>471,80</td><td>368,77</td><td>623,00</td><td>0,00</td><td>623,00</td><td>365,65</td><td>42,36</td><td>51,42</td><td> 17/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>471,53</td><td>217,56</td><td>429,00</td><td>0,00</td><td>429,00</td><td>327,37</td><td>40,63</td><td>31,35</td><td> 18/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>471,30</td><td>123,00</td><td>309,00</td><td>0,00</td><td>309,00</td><td>292,13</td><td>39,10</td><td>23,84</td><td> 19/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>471,07</td><td>129,18</td><td>312,00</td><td>0,00</td><td>312,00</td><td>295,99</td><td>37,61</td><td>23,99</td><td> 20/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>471,12</td><td>378,75</td><td>339,00</td><td>0,00</td><td>339,00</td><td>529,56</td><td>37,93</td><td>31,66</td><td> 21/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,91</td><td>959,67</td><td>1125,00</td><td>563,00</td><td>562,00</td><td>940,49</td><td>36,58</td><td>79,81</td><td> 22/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,50</td><td>595,93</td><td>925,00</td><td>291,00</td><td>634,00</td><td>859,28</td><td>33,89</td><td>54,67</td><td> 23/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,30</td><td>817,61</td><td>975,00</td><td>259,00</td><td>716,00</td><td>728,65</td><td>32,60</td><td>79,32</td><td> 24/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,85</td><td>795,17</td><td>1149,00</td><td>393,00</td><td>756,00</td><td>843,11</td><td>29,70</td><td>79,27</td><td> 25/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,40</td><td>445,89</td><td>792,00</td><td>153,00</td><td>639,00</td><td>681,24</td><td>26,87</td><td>51,46</td><td> 26/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,96</td><td>377,57</td><td>716,00</td><td>0,00</td><td>716,00</td><td>575,49</td><td>24,10</td><td>41,16</td><td> 27/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,64</td><td>525,88</td><td>772,00</td><td>0,00</td><td>772,00</td><td>505,37</td><td>22,09</td><td>59,14</td><td> 28/02/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,41</td><td>596,09</td><td>773,00</td><td>0,00</td><td>773,00</td><td>472,19</td><td>20,64</td><td>52,70</td><td> 01/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,23</td><td>606,55</td><td>745,00</td><td>0,00</td><td>745,00</td><td>453,35</td><td>19,51</td><td>50,51</td><td> 02/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,14</td><td>664,79</td><td>734,00</td><td>0,00</td><td>734,00</td><td>436,01</td><td>18,94</td><td>61,39</td><td> 03/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>467,77</td><td>408,19</td><td>687,00</td><td>0,00</td><td>687,00</td><td>426,37</td><td>16,66</td><td>67,26</td><td> 04/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>467,56</td><td>351,76</td><td>508,00</td><td>0,00</td><td>508,00</td><td>486,60</td><td>15,38</td><td>31,93</td><td> 05/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>467,53</td><td>796,69</td><td>819,00</td><td>0,00</td><td>819,00</td><td>750,90</td><td>15,20</td><td>19,20</td><td> 06/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>467,45</td><td>1856,47</td><td>1916,00</td><td>815,00</td><td>1101,00</td><td>1351,96</td><td>14,71</td><td>71,05</td><td> 07/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>466,73</td><td>1030,33</td><td>1566,00</td><td>721,00</td><td>845,00</td><td>1629,16</td><td>10,33</td><td>89,36</td><td> 08/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>466,80</td><td>914,08</td><td>862,00</td><td>0,00</td><td>862,00</td><td>1017,69</td><td>10,75</td><td>101,80</td><td> 09/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>466,37</td><td>669,09</td><td>989,00</td><td>0,00</td><td>989,00</td><td>807,63</td><td>8,14</td><td>80,20</td><td> 10/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>466,12</td><td>602,00</td><td>788,00</td><td>0,00</td><td>788,00</td><td>703,41</td><td>6,61</td><td>31,29</td><td> 11/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>466,05</td><td>606,92</td><td>659,00</td><td>0,00</td><td>659,00</td><td>711,08</td><td>6,19</td><td>29,88</td><td> 12/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>465,96</td><td>628,05</td><td>694,00</td><td>0,00</td><td>694,00</td><td>642,99</td><td>5,65</td><td>53,62</td><td> 13/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>465,83</td><td>649,55</td><td>743,00</td><td>0,00</td><td>743,00</td><td>523,66</td><td>4,88</td><td>35,97</td><td> 14/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>465,85</td><td>603,37</td><td>589,00</td><td>0,00</td><td>589,00</td><td>481,39</td><td>5,00</td><td>36,02</td><td> 15/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>465,81</td><td>546,13</td><td>572,00</td><td>0,00</td><td>572,00</td><td>462,62</td><td>4,79</td><td>48,91</td><td> 16/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>465,82</td><td>506,31</td><td>502,00</td><td>0,00</td><td>502,00</td><td>417,98</td><td>4,82</td><td>31,24</td><td> 17/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>465,84</td><td>457,25</td><td>440,00</td><td>0,00</td><td>440,00</td><td>369,41</td><td>4,96</td><td>31,91</td><td> 18/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>466,05</td><td>478,34</td><td>329,00</td><td>0,00</td><td>329,00</td><td>336,87</td><td>6,19</td><td>43,64</td><td> 19/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>466,43</td><td>587,71</td><td>305,00</td><td>0,00</td><td>305,00</td><td>307,31</td><td>8,50</td><td>36,58</td><td> 20/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>466,95</td><td>668,87</td><td>282,00</td><td>0,00</td><td>282,00</td><td>294,66</td><td>11,67</td><td>24,57</td><td> 21/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>467,17</td><td>445,68</td><td>282,00</td><td>0,00</td><td>282,00</td><td>293,47</td><td>13,01</td><td>30,44</td><td> 22/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>467,26</td><td>347,96</td><td>281,00</td><td>0,00</td><td>281,00</td><td>294,90</td><td>13,55</td><td>46,36</td><td> 23/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>467,42</td><td>399,04</td><td>280,00</td><td>0,00</td><td>280,00</td><td>343,62</td><td>14,53</td><td>33,92</td><td> 24/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>467,55</td><td>375,72</td><td>279,00</td><td>0,00</td><td>279,00</td><td>379,18</td><td>15,32</td><td>24,92</td><td> 25/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>467,55</td><td>278,00</td><td>278,00</td><td>0,00</td><td>278,00</td><td>422,05</td><td>15,32</td><td>38,17</td><td> 26/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>467,61</td><td>323,63</td><td>279,00</td><td>0,00</td><td>279,00</td><td>501,75</td><td>15,68</td><td>53,15</td><td> 27/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>467,74</td><td>375,72</td><td>279,00</td><td>0,00</td><td>279,00</td><td>445,79</td><td>16,48</td><td>35,68</td><td> 28/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,02</td><td>487,82</td><td>279,00</td><td>0,00</td><td>279,00</td><td>399,61</td><td>18,18</td><td>49,97</td><td> 29/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,21</td><td>425,13</td><td>279,00</td><td>0,00</td><td>279,00</td><td>416,78</td><td>19,38</td><td>47,38</td><td> 30/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,34</td><td>377,99</td><td>278,00</td><td>0,00</td><td>278,00</td><td>439,75</td><td>20,20</td><td>39,46</td><td> 31/03/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,27</td><td>221,17</td><td>275,00</td><td>0,00</td><td>275,00</td><td>433,65</td><td>19,76</td><td>39,49</td><td> 01/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,35</td><td>337,53</td><td>276,00</td><td>0,00</td><td>276,00</td><td>370,17</td><td>20,26</td><td>31,32</td><td> 02/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,53</td><td>414,99</td><td>275,00</td><td>0,00</td><td>275,00</td><td>321,79</td><td>21,41</td><td>31,21</td><td> 03/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,63</td><td>350,37</td><td>275,00</td><td>0,00</td><td>275,00</td><td>280,90</td><td>22,02</td><td>26,74</td><td> 04/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,89</td><td>471,90</td><td>275,00</td><td>0,00</td><td>275,00</td><td>260,14</td><td>23,64</td><td>25,50</td><td> 05/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,17</td><td>493,43</td><td>275,00</td><td>0,00</td><td>275,00</td><td>271,88</td><td>25,42</td><td>38,71</td><td> 06/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,05</td><td>182,71</td><td>275,00</td><td>0,00</td><td>275,00</td><td>319,06</td><td>24,67</td><td>47,00</td><td> 07/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,91</td><td>164,24</td><td>275,00</td><td>0,00</td><td>275,00</td><td>407,71</td><td>23,76</td><td>54,86</td><td> 08/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,76</td><td>164,24</td><td>275,00</td><td>0,00</td><td>275,00</td><td>486,30</td><td>22,86</td><td>56,37</td><td> 09/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,93</td><td>407,29</td><td>275,00</td><td>0,00</td><td>275,00</td><td>466,10</td><td>23,94</td><td>53,18</td><td> 10/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,99</td><td>318,07</td><td>275,00</td><td>0,00</td><td>275,00</td><td>415,00</td><td>24,29</td><td>45,26</td><td> 11/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,01</td><td>289,85</td><td>276,00</td><td>0,00</td><td>276,00</td><td>373,57</td><td>24,40</td><td>38,30</td><td> 12/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,04</td><td>301,69</td><td>274,00</td><td>0,00</td><td>274,00</td><td>341,06</td><td>24,63</td><td>35,55</td><td> 13/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,08</td><td>298,61</td><td>274,00</td><td>0,00</td><td>274,00</td><td>308,81</td><td>24,83</td><td>47,15</td><td> 14/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,05</td><td>254,01</td><td>274,00</td><td>0,00</td><td>274,00</td><td>287,71</td><td>24,67</td><td>46,34</td><td> 15/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,03</td><td>258,62</td><td>274,00</td><td>0,00</td><td>274,00</td><td>292,30</td><td>24,54</td><td>34,63</td><td> 16/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>468,98</td><td>264,54</td><td>303,00</td><td>0,00</td><td>303,00</td><td>407,35</td><td>24,23</td><td>33,05</td><td> 17/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,14</td><td>398,60</td><td>274,00</td><td>0,00</td><td>274,00</td><td>613,68</td><td>25,25</td><td>25,01</td><td> 18/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,39</td><td>465,28</td><td>273,00</td><td>0,00</td><td>273,00</td><td>613,49</td><td>26,82</td><td>22,28</td><td> 19/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,60</td><td>433,52</td><td>272,00</td><td>0,00</td><td>272,00</td><td>557,25</td><td>28,14</td><td>15,57</td><td> 20/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,71</td><td>353,53</td><td>272,00</td><td>0,00</td><td>272,00</td><td>465,18</td><td>28,81</td><td>16,35</td><td> 21/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,75</td><td>305,85</td><td>272,00</td><td>0,00</td><td>272,00</td><td>404,14</td><td>29,09</td><td>15,25</td><td> 22/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,84</td><td>341,22</td><td>272,00</td><td>0,00</td><td>272,00</td><td>361,75</td><td>29,65</td><td>15,13</td><td> 23/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>469,93</td><td>339,69</td><td>272,00</td><td>0,00</td><td>272,00</td><td>320,66</td><td>30,21</td><td>20,60</td><td> 24/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,08</td><td>391,02</td><td>272,00</td><td>0,00</td><td>272,00</td><td>290,57</td><td>31,18</td><td>25,36</td><td> 25/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,30</td><td>447,87</td><td>273,00</td><td>0,00</td><td>273,00</td><td>273,12</td><td>32,61</td><td>34,19</td><td> 26/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,61</td><td>580,82</td><td>336,00</td><td>0,00</td><td>336,00</td><td>277,43</td><td>34,62</td><td>44,40</td><td> 27/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,93</td><td>565,36</td><td>311,00</td><td>0,00</td><td>311,00</td><td>267,38</td><td>36,70</td><td>75,45</td><td> 28/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,72</td><td>145,66</td><td>311,00</td><td>0,00</td><td>311,00</td><td>236,11</td><td>35,34</td><td>12,57</td><td> 29/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,49</td><td>123,42</td><td>311,00</td><td>0,00</td><td>311,00</td><td>205,43</td><td>33,81</td><td>2,87</td><td> 30/04/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,33</td><td>188,99</td><td>313,00</td><td>0,00</td><td>313,00</td><td>199,61</td><td>32,79</td><td>30,94</td><td> 01/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,34</td><td>321,95</td><td>314,00</td><td>0,00</td><td>314,00</td><td>226,48</td><td>32,86</td><td>36,73</td><td> 02/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,23</td><td>226,57</td><td>314,00</td><td>0,00</td><td>314,00</td><td>331,88</td><td>32,14</td><td>92,09</td><td> 03/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>470,65</td><td>646,84</td><td>313,00</td><td>0,00</td><td>313,00</td><td>606,82</td><td>34,88</td><td>194,30</td><td> 04/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>471,51</td><td>993,59</td><td>310,00</td><td>0,00</td><td>310,00</td><td>976,88</td><td>40,47</td><td>175,24</td><td> 05/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,50</td><td>1108,08</td><td>308,00</td><td>0,00</td><td>308,00</td><td>1203,14</td><td>47,02</td><td>110,60</td><td> 06/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,28</td><td>945,52</td><td>305,00</td><td>0,00</td><td>305,00</td><td>1350,08</td><td>52,26</td><td>77,98</td><td> 07/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,33</td><td>1172,94</td><td>302,00</td><td>0,00</td><td>302,00</td><td>1214,53</td><td>59,39</td><td>152,31</td><td> 08/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,00</td><td>865,82</td><td>298,00</td><td>0,00</td><td>298,00</td><td>1086,12</td><td>64,03</td><td>154,55</td><td> 09/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,67</td><td>864,81</td><td>297,00</td><td>0,00</td><td>297,00</td><td>867,91</td><td>68,68</td><td>177,85</td><td> 10/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,34</td><td>872,77</td><td>296,00</td><td>0,00</td><td>296,00</td><td>691,41</td><td>73,40</td><td>123,03</td><td> 11/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,85</td><td>738,64</td><td>293,00</td><td>0,00</td><td>293,00</td><td>547,33</td><td>77,05</td><td>95,41</td><td> 12/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,24</td><td>634,78</td><td>294,00</td><td>0,00</td><td>294,00</td><td>458,56</td><td>79,83</td><td>100,77</td><td> 13/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,32</td><td>363,91</td><td>294,00</td><td>0,00</td><td>294,00</td><td>386,95</td><td>80,41</td><td>72,11</td><td> 14/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,63</td><td>561,87</td><td>291,00</td><td>0,00</td><td>291,00</td><td>354,27</td><td>82,62</td><td>57,12</td><td> 15/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,79</td><td>483,81</td><td>344,00</td><td>0,00</td><td>344,00</td><td>338,45</td><td>83,77</td><td>76,69</td><td> 16/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,87</td><td>481,91</td><td>412,00</td><td>0,00</td><td>412,00</td><td>302,96</td><td>84,34</td><td>75,61</td><td> 17/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,90</td><td>438,20</td><td>412,00</td><td>0,00</td><td>412,00</td><td>292,82</td><td>84,55</td><td>47,07</td><td> 18/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,04</td><td>535,19</td><td>410,00</td><td>0,00</td><td>410,00</td><td>279,10</td><td>85,58</td><td>57,52</td><td> 19/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,96</td><td>260,49</td><td>335,00</td><td>0,00</td><td>335,00</td><td>261,00</td><td>84,97</td><td>56,94</td><td> 20/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,89</td><td>227,08</td><td>290,00</td><td>0,00</td><td>290,00</td><td>248,68</td><td>84,45</td><td>54,77</td><td> 21/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,95</td><td>349,42</td><td>290,00</td><td>0,00</td><td>290,00</td><td>240,69</td><td>84,94</td><td>53,35</td><td> 22/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,09</td><td>457,20</td><td>336,00</td><td>0,00</td><td>336,00</td><td>240,78</td><td>85,93</td><td>53,17</td><td> 23/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,23</td><td>527,42</td><td>405,00</td><td>0,00</td><td>405,00</td><td>240,89</td><td>86,93</td><td>60,47</td><td> 24/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,25</td><td>484,60</td><td>463,00</td><td>0,00</td><td>463,00</td><td>235,04</td><td>87,11</td><td>55,35</td><td> 25/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,18</td><td>395,59</td><td>455,00</td><td>0,00</td><td>455,00</td><td>218,02</td><td>86,62</td><td>53,37</td><td> 26/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,11</td><td>223,40</td><td>290,00</td><td>0,00</td><td>290,00</td><td>219,14</td><td>86,08</td><td>57,38</td><td> 27/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,08</td><td>264,00</td><td>291,00</td><td>0,00</td><td>291,00</td><td>235,82</td><td>85,86</td><td>70,97</td><td> 28/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,02</td><td>398,98</td><td>453,00</td><td>0,00</td><td>453,00</td><td>249,38</td><td>85,42</td><td>80,82</td><td> 29/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,00</td><td>452,00</td><td>470,00</td><td>0,00</td><td>470,00</td><td>250,82</td><td>85,27</td><td>48,91</td><td> 30/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,07</td><td>562,01</td><td>499,00</td><td>0,00</td><td>499,00</td><td>245,36</td><td>85,78</td><td>50,04</td><td> 31/05/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,11</td><td>541,21</td><td>507,00</td><td>0,00</td><td>507,00</td><td>232,90</td><td>86,06</td><td>64,89</td><td> 01/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,85</td><td>257,72</td><td>486,00</td><td>0,00</td><td>486,00</td><td>212,26</td><td>84,20</td><td>48,60</td><td> 02/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,57</td><td>93,83</td><td>335,00</td><td>0,00</td><td>335,00</td><td>195,85</td><td>82,22</td><td>44,77</td><td> 03/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,36</td><td>103,01</td><td>290,00</td><td>0,00</td><td>290,00</td><td>189,79</td><td>80,69</td><td>57,51</td><td> 04/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,26</td><td>272,62</td><td>360,00</td><td>0,00</td><td>360,00</td><td>187,18</td><td>79,98</td><td>47,77</td><td> 05/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,04</td><td>220,02</td><td>414,00</td><td>0,00</td><td>414,00</td><td>181,54</td><td>78,39</td><td>45,82</td><td> 06/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,90</td><td>228,91</td><td>353,00</td><td>0,00</td><td>353,00</td><td>177,63</td><td>77,37</td><td>48,62</td><td> 07/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,66</td><td>91,28</td><td>294,00</td><td>0,00</td><td>294,00</td><td>172,01</td><td>75,72</td><td>39,97</td><td> 08/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,47</td><td>124,49</td><td>294,00</td><td>0,00</td><td>294,00</td><td>166,85</td><td>74,33</td><td>40,45</td><td> 09/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,26</td><td>162,50</td><td>346,00</td><td>0,00</td><td>346,00</td><td>162,71</td><td>72,83</td><td>44,20</td><td> 10/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,02</td><td>87,29</td><td>297,00</td><td>0,00</td><td>297,00</td><td>162,64</td><td>71,11</td><td>36,54</td><td> 11/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,90</td><td>201,38</td><td>307,00</td><td>0,00</td><td>307,00</td><td>168,44</td><td>70,25</td><td>26,16</td><td> 12/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,88</td><td>264,44</td><td>278,00</td><td>0,00</td><td>278,00</td><td>188,64</td><td>70,13</td><td>29,04</td><td> 13/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,90</td><td>339,96</td><td>323,00</td><td>0,00</td><td>323,00</td><td>278,42</td><td>70,27</td><td>43,71</td><td> 14/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,17</td><td>529,29</td><td>296,00</td><td>0,00</td><td>296,00</td><td>446,40</td><td>72,18</td><td>195,99</td><td> 15/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,44</td><td>531,93</td><td>296,00</td><td>0,00</td><td>296,00</td><td>826,61</td><td>74,11</td><td>201,92</td><td> 16/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,52</td><td>363,91</td><td>294,00</td><td>0,00</td><td>294,00</td><td>1182,71</td><td>74,69</td><td>180,72</td><td> 17/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,51</td><td>285,26</td><td>294,00</td><td>0,00</td><td>294,00</td><td>983,41</td><td>74,61</td><td>184,14</td><td> 18/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,58</td><td>355,17</td><td>294,00</td><td>0,00</td><td>294,00</td><td>770,89</td><td>75,11</td><td>112,62</td><td> 19/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,54</td><td>259,05</td><td>294,00</td><td>0,00</td><td>294,00</td><td>633,73</td><td>74,83</td><td>60,02</td><td> 20/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,45</td><td>215,35</td><td>294,00</td><td>0,00</td><td>294,00</td><td>516,90</td><td>74,18</td><td>95,14</td><td> 21/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,26</td><td>128,98</td><td>295,00</td><td>0,00</td><td>295,00</td><td>464,56</td><td>72,83</td><td>100,25</td><td> 22/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,83</td><td>1665,86</td><td>294,00</td><td>0,00</td><td>294,00</td><td>1468,08</td><td>84,05</td><td>695,12</td><td> 23/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,64</td><td>2172,71</td><td>548,00</td><td>248,00</td><td>300,00</td><td>2096,40</td><td>97,35</td><td>508,25</td><td> 24/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,84</td><td>1808,02</td><td>1628,00</td><td>1334,00</td><td>294,00</td><td>2137,82</td><td>98,82</td><td>205,25</td><td> 25/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,74</td><td>1325,99</td><td>1416,00</td><td>1059,00</td><td>357,00</td><td>1792,08</td><td>98,08</td><td>113,32</td><td> 26/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,83</td><td>1149,01</td><td>1068,00</td><td>551,00</td><td>517,00</td><td>1309,56</td><td>98,75</td><td>94,95</td><td> 27/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,73</td><td>911,99</td><td>1002,00</td><td>416,00</td><td>586,00</td><td>1023,84</td><td>98,01</td><td>97,91</td><td> 28/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,89</td><td>1041,02</td><td>897,00</td><td>76,00</td><td>821,00</td><td>868,27</td><td>99,19</td><td>92,38</td><td> 29/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,74</td><td>926,99</td><td>1062,00</td><td>0,00</td><td>1062,00</td><td>741,31</td><td>98,08</td><td>128,25</td><td> 30/06/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,91</td><td>698,02</td><td>545,00</td><td>0,00</td><td>545,00</td><td>605,46</td><td>99,34</td><td>123,60</td><td> 01/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,84</td><td>514,99</td><td>578,00</td><td>0,00</td><td>578,00</td><td>529,16</td><td>98,82</td><td>112,92</td><td> 02/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,68</td><td>644,98</td><td>789,00</td><td>0,00</td><td>789,00</td><td>486,57</td><td>97,64</td><td>110,06</td><td> 03/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,60</td><td>502,99</td><td>575,00</td><td>0,00</td><td>575,00</td><td>453,99</td><td>97,05</td><td>117,21</td><td> 04/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,39</td><td>399,98</td><td>589,00</td><td>0,00</td><td>589,00</td><td>414,50</td><td>95,51</td><td>109,10</td><td> 05/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,22</td><td>671,98</td><td>825,00</td><td>0,00</td><td>825,00</td><td>400,24</td><td>94,25</td><td>113,70</td><td> 06/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,02</td><td>970,98</td><td>1151,00</td><td>0,00</td><td>1151,00</td><td>449,65</td><td>92,78</td><td>137,34</td><td> 07/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,31</td><td>922,03</td><td>661,00</td><td>0,00</td><td>661,00</td><td>735,22</td><td>94,92</td><td>199,59</td><td> 08/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,93</td><td>1501,07</td><td>943,00</td><td>275,00</td><td>668,00</td><td>1425,73</td><td>99,48</td><td>265,50</td><td> 09/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,66</td><td>1611,98</td><td>1855,00</td><td>944,00</td><td>911,00</td><td>1781,10</td><td>97,50</td><td>317,43</td><td> 10/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,43</td><td>1819,97</td><td>2027,00</td><td>1095,00</td><td>932,00</td><td>1864,12</td><td>95,80</td><td>471,11</td><td> 11/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,60</td><td>4105,01</td><td>3952,00</td><td>2926,00</td><td>1026,00</td><td>3294,06</td><td>97,05</td><td>843,88</td><td> 12/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,75</td><td>6256,02</td><td>6121,00</td><td>4917,00</td><td>1204,00</td><td>5433,37</td><td>98,16</td><td>793,92</td><td> 13/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,95</td><td>4083,02</td><td>3903,00</td><td>2630,00</td><td>1273,00</td><td>5606,39</td><td>99,63</td><td>378,41</td><td> 14/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,85</td><td>2976,99</td><td>3067,00</td><td>2388,00</td><td>679,00</td><td>3721,75</td><td>98,90</td><td>305,35</td><td> 15/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,82</td><td>2353,00</td><td>2380,00</td><td>2075,00</td><td>305,00</td><td>2714,23</td><td>98,67</td><td>201,93</td><td> 16/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,76</td><td>1837,98</td><td>1892,00</td><td>1165,00</td><td>727,00</td><td>2147,52</td><td>98,23</td><td>166,77</td><td> 17/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,89</td><td>1560,01</td><td>1443,00</td><td>370,00</td><td>1073,00</td><td>1755,10</td><td>99,19</td><td>152,16</td><td> 18/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,92</td><td>1425,41</td><td>1402,00</td><td>269,00</td><td>1133,00</td><td>1493,05</td><td>99,38</td><td>141,20</td><td> 19/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,93</td><td>1175,00</td><td>1166,00</td><td>194,00</td><td>972,00</td><td>1316,38</td><td>99,45</td><td>121,87</td><td> 20/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,94</td><td>1204,61</td><td>1192,00</td><td>50,00</td><td>1142,00</td><td>1192,26</td><td>99,56</td><td>132,54</td><td> 21/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,96</td><td>998,00</td><td>980,00</td><td>394,00</td><td>586,00</td><td>1098,94</td><td>99,71</td><td>102,92</td><td> 22/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,93</td><td>949,00</td><td>976,00</td><td>680,00</td><td>296,00</td><td>1007,35</td><td>99,48</td><td>107,65</td><td> 23/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,76</td><td>1151,98</td><td>1305,00</td><td>633,00</td><td>672,00</td><td>1004,11</td><td>98,23</td><td>124,78</td><td> 24/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,44</td><td>989,17</td><td>1279,00</td><td>55,00</td><td>1224,00</td><td>929,20</td><td>95,86</td><td>114,79</td><td> 25/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,34</td><td>995,79</td><td>1084,00</td><td>0,00</td><td>1084,00</td><td>849,02</td><td>95,14</td><td>140,85</td><td> 26/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,96</td><td>875,96</td><td>1155,00</td><td>0,00</td><td>1155,00</td><td>798,28</td><td>92,34</td><td>101,09</td><td> 27/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,80</td><td>999,98</td><td>1144,00</td><td>0,00</td><td>1144,00</td><td>804,19</td><td>91,16</td><td>150,93</td><td> 28/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,74</td><td>923,00</td><td>977,00</td><td>0,00</td><td>977,00</td><td>840,79</td><td>90,72</td><td>160,63</td><td> 29/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,60</td><td>633,98</td><td>760,00</td><td>0,00</td><td>760,00</td><td>774,13</td><td>89,69</td><td>164,94</td><td> 30/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,32</td><td>623,97</td><td>876,00</td><td>0,00</td><td>876,00</td><td>644,07</td><td>87,63</td><td>136,83</td><td> 31/07/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,03</td><td>707,97</td><td>969,00</td><td>0,00</td><td>969,00</td><td>544,20</td><td>85,49</td><td>134,18</td><td> 01/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,81</td><td>729,98</td><td>923,00</td><td>0,00</td><td>923,00</td><td>495,85</td><td>83,91</td><td>133,30</td><td> 02/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,52</td><td>697,60</td><td>951,00</td><td>0,00</td><td>951,00</td><td>468,67</td><td>81,84</td><td>117,32</td><td> 03/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,56</td><td>817,95</td><td>783,00</td><td>0,00</td><td>783,00</td><td>416,89</td><td>82,12</td><td>87,00</td><td> 04/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,00</td><td>752,47</td><td>368,00</td><td>0,00</td><td>368,00</td><td>388,53</td><td>85,27</td><td>82,01</td><td> 05/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,92</td><td>489,09</td><td>559,00</td><td>0,00</td><td>559,00</td><td>410,44</td><td>84,70</td><td>98,49</td><td> 06/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,56</td><td>795,44</td><td>1110,00</td><td>0,00</td><td>1110,00</td><td>381,99</td><td>82,12</td><td>168,66</td><td> 07/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,19</td><td>896,69</td><td>1220,00</td><td>0,00</td><td>1220,00</td><td>409,39</td><td>79,48</td><td>126,85</td><td> 08/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,77</td><td>754,01</td><td>1121,00</td><td>0,00</td><td>1121,00</td><td>385,35</td><td>76,47</td><td>118,32</td><td> 09/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,41</td><td>716,43</td><td>1031,00</td><td>0,00</td><td>1031,00</td><td>426,66</td><td>73,90</td><td>86,80</td><td> 10/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,26</td><td>871,94</td><td>1003,00</td><td>0,00</td><td>1003,00</td><td>621,87</td><td>72,83</td><td>265,30</td><td> 11/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,49</td><td>789,97</td><td>589,00</td><td>0,00</td><td>589,00</td><td>1077,40</td><td>74,47</td><td>432,53</td><td> 12/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,91</td><td>660,99</td><td>294,00</td><td>0,00</td><td>294,00</td><td>1297,70</td><td>77,47</td><td>307,63</td><td> 13/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,22</td><td>563,88</td><td>293,00</td><td>0,00</td><td>293,00</td><td>1153,76</td><td>79,69</td><td>191,06</td><td> 14/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,35</td><td>730,60</td><td>617,00</td><td>0,00</td><td>617,00</td><td>951,67</td><td>80,62</td><td>165,27</td><td> 15/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,19</td><td>749,19</td><td>889,00</td><td>0,00</td><td>889,00</td><td>815,94</td><td>79,48</td><td>128,55</td><td> 16/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,88</td><td>798,12</td><td>1069,00</td><td>0,00</td><td>1069,00</td><td>713,77</td><td>77,26</td><td>126,55</td><td> 17/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,62</td><td>942,82</td><td>1170,00</td><td>0,00</td><td>1170,00</td><td>626,83</td><td>75,40</td><td>145,48</td><td> 18/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,75</td><td>766,59</td><td>653,00</td><td>0,00</td><td>653,00</td><td>555,24</td><td>76,33</td><td>121,03</td><td> 19/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,03</td><td>537,66</td><td>293,00</td><td>0,00</td><td>293,00</td><td>507,92</td><td>78,33</td><td>104,01</td><td> 20/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,98</td><td>677,31</td><td>721,00</td><td>0,00</td><td>721,00</td><td>485,23</td><td>77,97</td><td>95,39</td><td> 21/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,76</td><td>770,77</td><td>963,00</td><td>0,00</td><td>963,00</td><td>476,94</td><td>76,40</td><td>117,79</td><td> 22/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,57</td><td>900,98</td><td>1067,00</td><td>0,00</td><td>1067,00</td><td>454,88</td><td>75,04</td><td>142,65</td><td> 23/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,31</td><td>986,81</td><td>1214,00</td><td>0,00</td><td>1214,00</td><td>452,98</td><td>73,18</td><td>109,96</td><td> 24/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,94</td><td>905,28</td><td>1227,00</td><td>0,00</td><td>1227,00</td><td>481,48</td><td>70,55</td><td>92,45</td><td> 25/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,71</td><td>872,07</td><td>1067,00</td><td>0,00</td><td>1067,00</td><td>520,09</td><td>68,96</td><td>133,14</td><td> 26/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,32</td><td>558,48</td><td>889,00</td><td>0,00</td><td>889,00</td><td>483,96</td><td>66,25</td><td>107,23</td><td> 27/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,81</td><td>738,79</td><td>1171,00</td><td>0,00</td><td>1171,00</td><td>420,97</td><td>62,71</td><td>103,44</td><td> 28/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,29</td><td>746,31</td><td>1187,00</td><td>0,00</td><td>1187,00</td><td>403,22</td><td>59,11</td><td>111,01</td><td> 29/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,84</td><td>737,84</td><td>1115,00</td><td>0,00</td><td>1115,00</td><td>380,51</td><td>56,02</td><td>99,06</td><td> 30/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,38</td><td>791,25</td><td>1169,00</td><td>0,00</td><td>1169,00</td><td>329,07</td><td>52,93</td><td>104,36</td><td> 31/08/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,46</td><td>685,69</td><td>620,00</td><td>0,00</td><td>620,00</td><td>311,73</td><td>53,47</td><td>62,83</td><td> 01/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,91</td><td>671,54</td><td>302,00</td><td>0,00</td><td>302,00</td><td>353,62</td><td>56,49</td><td>74,53</td><td> 02/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,19</td><td>536,93</td><td>302,00</td><td>0,00</td><td>302,00</td><td>532,68</td><td>58,41</td><td>145,99</td><td> 03/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,26</td><td>3842,94</td><td>1208,00</td><td>306,00</td><td>902,00</td><td>3024,88</td><td>79,98</td><td>687,51</td><td> 04/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,94</td><td>5159,71</td><td>3667,00</td><td>2388,00</td><td>1279,00</td><td>6663,35</td><td>92,19</td><td>1044,19</td><td> 05/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,78</td><td>2427,98</td><td>2572,00</td><td>1478,00</td><td>1094,00</td><td>4614,62</td><td>91,01</td><td>778,14</td><td> 06/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,70</td><td>1673,99</td><td>1746,00</td><td>563,00</td><td>1183,00</td><td>2485,11</td><td>90,42</td><td>632,20</td><td> 07/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,84</td><td>1528,02</td><td>1402,00</td><td>147,00</td><td>1255,00</td><td>1880,77</td><td>91,46</td><td>563,50</td><td> 08/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,76</td><td>1180,99</td><td>1253,00</td><td>109,00</td><td>1144,00</td><td>1592,10</td><td>90,87</td><td>488,15</td><td> 09/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,74</td><td>880,00</td><td>898,00</td><td>0,00</td><td>898,00</td><td>1415,44</td><td>90,72</td><td>424,05</td><td> 10/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,61</td><td>870,99</td><td>988,00</td><td>0,00</td><td>988,00</td><td>1250,42</td><td>89,76</td><td>344,30</td><td> 11/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,55</td><td>1015,00</td><td>1069,00</td><td>0,00</td><td>1069,00</td><td>1075,03</td><td>89,32</td><td>283,53</td><td> 12/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,48</td><td>1057,99</td><td>1121,00</td><td>0,00</td><td>1121,00</td><td>900,06</td><td>88,80</td><td>271,75</td><td> 13/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,47</td><td>1034,00</td><td>1043,00</td><td>0,00</td><td>1043,00</td><td>818,47</td><td>88,73</td><td>211,22</td><td> 14/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,44</td><td>1106,00</td><td>1133,00</td><td>0,00</td><td>1133,00</td><td>767,46</td><td>88,51</td><td>191,61</td><td> 15/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,30</td><td>847,99</td><td>974,00</td><td>0,00</td><td>974,00</td><td>740,04</td><td>87,48</td><td>190,32</td><td> 16/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,99</td><td>677,23</td><td>956,00</td><td>0,00</td><td>956,00</td><td>675,78</td><td>85,20</td><td>171,73</td><td> 17/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,71</td><td>827,34</td><td>1072,00</td><td>0,00</td><td>1072,00</td><td>681,02</td><td>83,19</td><td>182,27</td><td> 18/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,58</td><td>1059,41</td><td>1173,00</td><td>0,00</td><td>1173,00</td><td>820,54</td><td>82,27</td><td>288,19</td><td> 19/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,62</td><td>1208,95</td><td>1174,00</td><td>0,00</td><td>1174,00</td><td>1230,45</td><td>82,55</td><td>432,49</td><td> 20/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,64</td><td>1125,47</td><td>1108,00</td><td>0,00</td><td>1108,00</td><td>1352,24</td><td>82,69</td><td>412,23</td><td> 21/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,49</td><td>1110,94</td><td>1242,00</td><td>0,00</td><td>1242,00</td><td>1167,29</td><td>81,62</td><td>341,00</td><td> 22/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,80</td><td>1010,88</td><td>740,00</td><td>0,00</td><td>740,00</td><td>1077,08</td><td>83,84</td><td>271,87</td><td> 23/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,91</td><td>859,11</td><td>763,00</td><td>0,00</td><td>763,00</td><td>1120,93</td><td>84,62</td><td>226,95</td><td> 24/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,35</td><td>1592,68</td><td>1199,00</td><td>0,00</td><td>1199,00</td><td>1341,19</td><td>87,85</td><td>276,99</td><td> 25/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,04</td><td>3012,08</td><td>2391,00</td><td>1113,00</td><td>1278,00</td><td>2199,64</td><td>92,93</td><td>345,86</td><td> 26/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,15</td><td>2338,00</td><td>2239,00</td><td>965,00</td><td>1274,00</td><td>2799,80</td><td>93,74</td><td>306,26</td><td> 27/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,59</td><td>2020,05</td><td>1624,00</td><td>372,00</td><td>1252,00</td><td>2515,23</td><td>96,98</td><td>214,82</td><td> 28/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,30</td><td>1345,97</td><td>1607,00</td><td>351,00</td><td>1256,00</td><td>2107,36</td><td>94,84</td><td>218,16</td><td> 29/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,12</td><td>1214,97</td><td>1377,00</td><td>130,00</td><td>1247,00</td><td>1667,76</td><td>93,52</td><td>202,47</td><td> 30/09/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,27</td><td>1277,02</td><td>1142,00</td><td>0,00</td><td>1142,00</td><td>1437,67</td><td>94,62</td><td>196,37</td><td> 01/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,99</td><td>1280,37</td><td>1536,00</td><td>293,00</td><td>1243,00</td><td>1300,01</td><td>92,53</td><td>145,77</td><td> 02/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,50</td><td>1733,35</td><td>2169,00</td><td>893,00</td><td>1276,00</td><td>1258,50</td><td>88,97</td><td>131,73</td><td> 03/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,42</td><td>3455,19</td><td>3529,00</td><td>2231,00</td><td>1298,00</td><td>2838,74</td><td>88,36</td><td>993,83</td><td> 04/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,23</td><td>4848,98</td><td>5020,00</td><td>3711,00</td><td>1309,00</td><td>4234,23</td><td>86,96</td><td>605,02</td><td> 05/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,60</td><td>3434,46</td><td>3991,00</td><td>2672,00</td><td>1319,00</td><td>4256,35</td><td>82,41</td><td>275,10</td><td> 06/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,87</td><td>13334,60</td><td>12202,00</td><td>10977,00</td><td>1225,00</td><td>8780,48</td><td>91,68</td><td>2589,68</td><td> 07/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,90</td><td>11505,00</td><td>11478,00</td><td>10310,00</td><td>1168,00</td><td>12551,45</td><td>91,90</td><td>1853,10</td><td> 08/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,05</td><td>5965,01</td><td>5830,00</td><td>4507,00</td><td>1323,00</td><td>8053,81</td><td>93,00</td><td>469,04</td><td> 09/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,46</td><td>5178,95</td><td>5710,00</td><td>4568,00</td><td>1142,00</td><td>5589,15</td><td>88,66</td><td>392,83</td><td> 10/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,10</td><td>4791,96</td><td>5116,00</td><td>3816,00</td><td>1300,00</td><td>4618,49</td><td>86,00</td><td>417,08</td><td> 11/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,60</td><td>5555,05</td><td>5105,00</td><td>3844,00</td><td>1261,00</td><td>5059,98</td><td>89,69</td><td>573,15</td><td> 12/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,21</td><td>5094,06</td><td>4545,00</td><td>3245,00</td><td>1300,00</td><td>6207,65</td><td>94,18</td><td>405,10</td><td> 13/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,35</td><td>4279,02</td><td>4153,00</td><td>3006,00</td><td>1147,00</td><td>5078,75</td><td>95,21</td><td>201,00</td><td> 14/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,16</td><td>3334,98</td><td>3506,00</td><td>2627,00</td><td>879,00</td><td>3947,18</td><td>93,81</td><td>147,32</td><td> 15/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,04</td><td>3660,99</td><td>3769,00</td><td>2520,00</td><td>1249,00</td><td>3380,56</td><td>92,93</td><td>58,57</td><td> 16/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,91</td><td>7280,99</td><td>7398,00</td><td>6087,00</td><td>1311,00</td><td>5238,72</td><td>91,97</td><td>841,38</td><td> 17/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,84</td><td>5682,99</td><td>5746,00</td><td>4433,00</td><td>1313,00</td><td>6310,85</td><td>91,46</td><td>545,92</td><td> 18/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,57</td><td>4717,97</td><td>4961,00</td><td>3651,00</td><td>1310,00</td><td>4843,71</td><td>89,47</td><td>482,34</td><td> 19/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,13</td><td>3704,06</td><td>3200,00</td><td>1930,00</td><td>1270,00</td><td>3891,73</td><td>93,59</td><td>387,55</td><td> 20/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,40</td><td>2966,93</td><td>3624,00</td><td>2477,00</td><td>1147,00</td><td>3123,49</td><td>88,21</td><td>225,45</td><td> 21/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,03</td><td>2099,96</td><td>2433,00</td><td>1370,00</td><td>1063,00</td><td>2598,97</td><td>85,49</td><td>75,64</td><td> 22/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,15</td><td>1986,01</td><td>1878,00</td><td>597,00</td><td>1281,00</td><td>2159,74</td><td>86,37</td><td>156,69</td><td> 23/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,03</td><td>1936,99</td><td>2045,00</td><td>758,00</td><td>1287,00</td><td>1973,73</td><td>85,49</td><td>60,20</td><td> 24/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,91</td><td>1769,35</td><td>1875,00</td><td>594,00</td><td>1281,00</td><td>1832,05</td><td>84,62</td><td>115,39</td><td> 25/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,84</td><td>1720,84</td><td>1782,00</td><td>504,00</td><td>1278,00</td><td>1679,87</td><td>84,12</td><td>149,50</td><td> 26/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,24</td><td>1574,72</td><td>2099,00</td><td>817,00</td><td>1282,00</td><td>1565,72</td><td>79,83</td><td>183,84</td><td> 27/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,65</td><td>1856,46</td><td>2372,00</td><td>1195,00</td><td>1177,00</td><td>1745,58</td><td>75,62</td><td>323,78</td><td> 28/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,29</td><td>2101,24</td><td>1542,00</td><td>579,00</td><td>963,00</td><td>2058,57</td><td>80,19</td><td>310,97</td><td> 29/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,41</td><td>3201,43</td><td>2212,00</td><td>987,00</td><td>1225,00</td><td>2645,94</td><td>88,29</td><td>317,32</td><td> 30/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,32</td><td>3768,99</td><td>3850,00</td><td>2537,00</td><td>1313,00</td><td>3376,12</td><td>87,63</td><td>264,71</td><td> 31/10/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,05</td><td>2893,97</td><td>3137,00</td><td>1833,00</td><td>1304,00</td><td>3508,85</td><td>85,64</td><td>207,14</td><td> 01/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,94</td><td>2565,57</td><td>2663,00</td><td>1694,00</td><td>969,00</td><td>2810,36</td><td>84,84</td><td>273,78</td><td> 02/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,02</td><td>6219,53</td><td>5249,00</td><td>4102,00</td><td>1147,00</td><td>4792,77</td><td>92,78</td><td>1350,06</td><td> 03/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,38</td><td>5627,04</td><td>5303,00</td><td>4143,00</td><td>1160,00</td><td>6093,56</td><td>95,43</td><td>762,69</td><td> 04/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,62</td><td>4115,03</td><td>3899,00</td><td>2987,00</td><td>912,00</td><td>5153,02</td><td>97,20</td><td>388,55</td><td> 05/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,64</td><td>2953,00</td><td>2935,00</td><td>1858,00</td><td>1077,00</td><td>3752,18</td><td>97,35</td><td>282,97</td><td> 06/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,45</td><td>2303,98</td><td>2475,00</td><td>1408,00</td><td>1067,00</td><td>2885,43</td><td>95,95</td><td>231,66</td><td> 07/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,27</td><td>2174,99</td><td>2337,00</td><td>1146,00</td><td>1191,00</td><td>2350,04</td><td>94,62</td><td>179,46</td><td> 08/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,02</td><td>2641,97</td><td>2867,00</td><td>1608,00</td><td>1259,00</td><td>2084,27</td><td>92,78</td><td>280,73</td><td> 09/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,69</td><td>2345,97</td><td>2643,00</td><td>1377,00</td><td>1266,00</td><td>1952,02</td><td>90,35</td><td>170,95</td><td> 10/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,65</td><td>1468,99</td><td>1505,00</td><td>365,00</td><td>1140,00</td><td>1686,99</td><td>90,06</td><td>141,30</td><td> 11/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,83</td><td>1441,01</td><td>1279,00</td><td>104,00</td><td>1175,00</td><td>1499,45</td><td>91,38</td><td>228,36</td><td> 12/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,53</td><td>1776,98</td><td>2047,00</td><td>782,00</td><td>1265,00</td><td>1481,54</td><td>89,17</td><td>268,74</td><td> 13/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,20</td><td>1962,96</td><td>2260,00</td><td>987,00</td><td>1273,00</td><td>1675,63</td><td>86,74</td><td>393,81</td><td> 14/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,04</td><td>1931,98</td><td>2076,00</td><td>845,00</td><td>1231,00</td><td>1852,15</td><td>85,56</td><td>447,95</td><td> 15/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,36</td><td>7874,14</td><td>6686,00</td><td>5453,00</td><td>1233,00</td><td>5716,20</td><td>95,29</td><td>2498,25</td><td> 16/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,24</td><td>14027,99</td><td>14136,00</td><td>12913,00</td><td>1223,00</td><td>11086,44</td><td>94,40</td><td>3385,35</td><td> 17/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,26</td><td>14150,00</td><td>14132,00</td><td>12976,00</td><td>1156,00</td><td>13399,18</td><td>94,55</td><td>2462,52</td><td> 18/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,57</td><td>8333,03</td><td>8054,00</td><td>6902,00</td><td>1152,00</td><td>11422,48</td><td>96,83</td><td>1353,50</td><td> 19/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,54</td><td>5599,00</td><td>5626,00</td><td>4323,00</td><td>1303,00</td><td>7495,62</td><td>96,61</td><td>917,75</td><td> 20/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,10</td><td>4497,94</td><td>4894,00</td><td>3654,00</td><td>1240,00</td><td>5003,01</td><td>93,37</td><td>575,61</td><td> 21/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,21</td><td>3957,00</td><td>3858,00</td><td>2560,00</td><td>1298,00</td><td>4085,91</td><td>94,18</td><td>562,04</td><td> 22/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,95</td><td>4120,98</td><td>4355,00</td><td>3064,00</td><td>1291,00</td><td>3834,06</td><td>92,27</td><td>406,52</td><td> 23/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,60</td><td>3312,95</td><td>3628,00</td><td>2331,00</td><td>1297,00</td><td>3524,50</td><td>89,69</td><td>234,36</td><td> 24/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,60</td><td>2677,00</td><td>2677,00</td><td>1523,00</td><td>1154,00</td><td>2814,91</td><td>89,69</td><td>240,03</td><td> 25/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,52</td><td>1972,00</td><td>2044,00</td><td>884,00</td><td>1160,00</td><td>2319,71</td><td>89,10</td><td>166,40</td><td> 26/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,19</td><td>1887,96</td><td>2185,00</td><td>903,00</td><td>1282,00</td><td>1994,32</td><td>86,67</td><td>195,87</td><td> 27/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,56</td><td>2414,04</td><td>2081,00</td><td>799,00</td><td>1282,00</td><td>2332,10</td><td>89,39</td><td>484,23</td><td> 28/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,18</td><td>3618,06</td><td>3060,00</td><td>1772,00</td><td>1288,00</td><td>3107,53</td><td>93,96</td><td>511,44</td><td> 29/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,25</td><td>3162,01</td><td>3099,00</td><td>1816,00</td><td>1283,00</td><td>3579,18</td><td>94,48</td><td>337,22</td><td> 30/11/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,11</td><td>2596,99</td><td>2723,00</td><td>1517,00</td><td>1206,00</td><td>2876,61</td><td>93,44</td><td>250,50</td><td> 01/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,39</td><td>1991,03</td><td>1739,00</td><td>487,00</td><td>1252,00</td><td>2356,84</td><td>95,51</td><td>175,48</td><td> 02/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,91</td><td>1746,06</td><td>1278,00</td><td>185,00</td><td>1093,00</td><td>2032,72</td><td>99,34</td><td>265,13</td><td> 03/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,76</td><td>2501,98</td><td>2637,00</td><td>1371,00</td><td>1266,00</td><td>2284,28</td><td>98,23</td><td>206,64</td><td> 04/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,80</td><td>2457,01</td><td>2421,00</td><td>1154,00</td><td>1267,00</td><td>2612,52</td><td>98,53</td><td>281,88</td><td> 05/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,63</td><td>2047,98</td><td>2201,00</td><td>937,00</td><td>1264,00</td><td>2269,97</td><td>97,27</td><td>211,23</td><td> 06/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,61</td><td>2238,00</td><td>2256,00</td><td>993,00</td><td>1263,00</td><td>2330,99</td><td>97,13</td><td>366,80</td><td> 07/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,60</td><td>2300,00</td><td>2309,00</td><td>1042,00</td><td>1267,00</td><td>2292,90</td><td>97,05</td><td>306,88</td><td> 08/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,58</td><td>1888,00</td><td>1906,00</td><td>649,00</td><td>1257,00</td><td>2115,86</td><td>96,91</td><td>259,60</td><td> 09/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,64</td><td>1662,00</td><td>1608,00</td><td>358,00</td><td>1250,00</td><td>1848,55</td><td>97,35</td><td>199,19</td><td> 10/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,48</td><td>1811,98</td><td>1956,00</td><td>699,00</td><td>1257,00</td><td>1644,83</td><td>96,17</td><td>246,43</td><td> 11/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,43</td><td>1416,00</td><td>1461,00</td><td>212,00</td><td>1249,00</td><td>1508,15</td><td>95,80</td><td>168,66</td><td> 12/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,62</td><td>1352,02</td><td>1181,00</td><td>0,00</td><td>1181,00</td><td>1376,83</td><td>97,20</td><td>170,47</td><td> 13/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,86</td><td>1275,02</td><td>1059,00</td><td>128,00</td><td>931,00</td><td>1216,65</td><td>98,97</td><td>221,27</td><td> 14/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,86</td><td>1259,00</td><td>1259,00</td><td>430,00</td><td>829,00</td><td>1109,13</td><td>98,97</td><td>226,06</td><td> 15/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,87</td><td>1268,00</td><td>1259,00</td><td>430,00</td><td>829,00</td><td>1046,06</td><td>99,04</td><td>245,33</td><td> 16/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,76</td><td>1002,98</td><td>1102,00</td><td>276,00</td><td>826,00</td><td>1070,32</td><td>98,23</td><td>218,42</td><td> 17/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,93</td><td>1176,02</td><td>1023,00</td><td>88,00</td><td>935,00</td><td>1154,98</td><td>99,48</td><td>247,52</td><td> 18/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,75</td><td>1117,99</td><td>1280,00</td><td>41,00</td><td>1239,00</td><td>1163,41</td><td>98,16</td><td>190,47</td><td> 19/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,59</td><td>1095,98</td><td>1240,00</td><td>0,00</td><td>1240,00</td><td>1077,56</td><td>96,98</td><td>204,28</td><td> 20/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,51</td><td>1138,99</td><td>1211,00</td><td>0,00</td><td>1211,00</td><td>996,61</td><td>96,39</td><td>201,90</td><td> 21/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,41</td><td>1151,99</td><td>1242,00</td><td>0,00</td><td>1242,00</td><td>882,27</td><td>95,65</td><td>195,63</td><td> 22/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,47</td><td>1039,00</td><td>985,00</td><td>0,00</td><td>985,00</td><td>896,43</td><td>96,10</td><td>230,47</td><td> 23/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,39</td><td>837,00</td><td>909,00</td><td>0,00</td><td>909,00</td><td>1058,27</td><td>95,51</td><td>181,58</td><td> 24/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,30</td><td>849,99</td><td>931,00</td><td>0,00</td><td>931,00</td><td>1019,42</td><td>94,84</td><td>148,27</td><td> 25/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,28</td><td>1108,99</td><td>1127,00</td><td>0,00</td><td>1127,00</td><td>873,05</td><td>94,70</td><td>191,30</td><td> 26/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,19</td><td>1086,99</td><td>1168,00</td><td>0,00</td><td>1168,00</td><td>801,20</td><td>94,03</td><td>180,17</td><td> 27/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,99</td><td>999,98</td><td>1180,00</td><td>0,00</td><td>1180,00</td><td>691,41</td><td>92,56</td><td>178,39</td><td> 28/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,66</td><td>867,97</td><td>1165,00</td><td>0,00</td><td>1165,00</td><td>624,26</td><td>90,13</td><td>124,84</td><td> 29/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,02</td><td>636,92</td><td>1213,00</td><td>0,00</td><td>1213,00</td><td>585,53</td><td>85,42</td><td>148,17</td><td> 30/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,33</td><td>498,56</td><td>1102,00</td><td>0,00</td><td>1102,00</td><td>544,97</td><td>80,48</td><td>144,39</td><td> 31/12/2023</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,80</td><td>608,89</td><td>1072,00</td><td>0,00</td><td>1072,00</td><td>503,20</td><td>76,69</td><td>120,21</td><td> 01/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,38</td><td>891,00</td><td>1258,00</td><td>0,00</td><td>1258,00</td><td>464,04</td><td>73,68</td><td>155,73</td><td> 02/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,94</td><td>884,12</td><td>1267,00</td><td>0,00</td><td>1267,00</td><td>505,91</td><td>70,55</td><td>134,60</td><td> 03/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,60</td><td>872,85</td><td>1161,00</td><td>0,00</td><td>1161,00</td><td>586,73</td><td>68,19</td><td>141,41</td><td> 04/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,30</td><td>888,75</td><td>1143,00</td><td>0,00</td><td>1143,00</td><td>696,72</td><td>66,11</td><td>128,43</td><td> 05/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,31</td><td>829,47</td><td>821,00</td><td>0,00</td><td>821,00</td><td>648,70</td><td>66,18</td><td>103,35</td><td> 06/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,25</td><td>831,16</td><td>882,00</td><td>0,00</td><td>882,00</td><td>568,09</td><td>65,77</td><td>121,95</td><td> 07/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,04</td><td>826,03</td><td>1004,00</td><td>0,00</td><td>1004,00</td><td>486,52</td><td>64,31</td><td>76,32</td><td> 08/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,88</td><td>830,40</td><td>966,00</td><td>0,00</td><td>966,00</td><td>461,17</td><td>63,20</td><td>112,48</td><td> 09/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,80</td><td>835,20</td><td>903,00</td><td>0,00</td><td>903,00</td><td>484,37</td><td>62,64</td><td>141,77</td><td> 10/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,73</td><td>800,68</td><td>860,00</td><td>0,00</td><td>860,00</td><td>500,80</td><td>62,16</td><td>80,50</td><td> 11/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,79</td><td>834,84</td><td>784,00</td><td>0,00</td><td>784,00</td><td>550,43</td><td>62,58</td><td>101,04</td><td> 12/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,73</td><td>756,16</td><td>807,00</td><td>0,00</td><td>807,00</td><td>709,56</td><td>62,16</td><td>70,72</td><td> 13/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,45</td><td>530,70</td><td>768,00</td><td>0,00</td><td>768,00</td><td>591,31</td><td>60,22</td><td>109,05</td><td> 14/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,36</td><td>736,73</td><td>813,00</td><td>0,00</td><td>813,00</td><td>510,34</td><td>59,59</td><td>55,28</td><td> 15/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,29</td><td>738,68</td><td>798,00</td><td>0,00</td><td>798,00</td><td>504,91</td><td>59,11</td><td>107,76</td><td> 16/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,61</td><td>1046,19</td><td>775,00</td><td>0,00</td><td>775,00</td><td>665,28</td><td>61,33</td><td>188,00</td><td> 17/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,34</td><td>2494,10</td><td>1019,00</td><td>0,00</td><td>1019,00</td><td>2644,97</td><td>73,40</td><td>1182,22</td><td> 18/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,61</td><td>3178,56</td><td>1179,00</td><td>0,00</td><td>1179,00</td><td>3889,95</td><td>89,76</td><td>867,99</td><td> 19/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,69</td><td>2336,12</td><td>1364,00</td><td>115,00</td><td>1249,00</td><td>3518,92</td><td>97,72</td><td>456,41</td><td> 20/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,60</td><td>1674,98</td><td>1756,00</td><td>500,00</td><td>1256,00</td><td>2484,69</td><td>97,05</td><td>323,79</td><td> 21/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,61</td><td>1514,00</td><td>1505,00</td><td>260,00</td><td>1245,00</td><td>1811,36</td><td>97,13</td><td>220,38</td><td> 22/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,46</td><td>1389,99</td><td>1525,00</td><td>285,00</td><td>1240,00</td><td>1509,12</td><td>96,02</td><td>131,47</td><td> 23/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,31</td><td>1283,98</td><td>1419,00</td><td>176,00</td><td>1243,00</td><td>1417,24</td><td>94,92</td><td>132,35</td><td> 24/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,13</td><td>1074,99</td><td>1237,00</td><td>61,00</td><td>1176,00</td><td>1375,41</td><td>93,59</td><td>161,80</td><td> 25/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,64</td><td>940,95</td><td>1382,00</td><td>200,00</td><td>1182,00</td><td>1278,59</td><td>89,98</td><td>169,24</td><td> 26/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,53</td><td>917,00</td><td>1016,00</td><td>17,00</td><td>999,00</td><td>1166,06</td><td>89,17</td><td>155,81</td><td> 27/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,45</td><td>1011,99</td><td>1084,00</td><td>0,00</td><td>1084,00</td><td>1236,45</td><td>88,58</td><td>225,15</td><td> 28/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,46</td><td>1164,00</td><td>1155,00</td><td>1,00</td><td>1154,00</td><td>1286,85</td><td>88,66</td><td>220,81</td><td> 29/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,37</td><td>1173,99</td><td>1255,00</td><td>0,00</td><td>1255,00</td><td>1231,41</td><td>87,99</td><td>180,94</td><td> 30/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,23</td><td>1128,98</td><td>1255,00</td><td>0,00</td><td>1255,00</td><td>1039,37</td><td>86,96</td><td>173,37</td><td> 31/01/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,10</td><td>1048,99</td><td>1166,00</td><td>0,00</td><td>1166,00</td><td>845,72</td><td>86,00</td><td>142,06</td><td> 01/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,88</td><td>1067,13</td><td>1262,00</td><td>0,00</td><td>1262,00</td><td>728,05</td><td>84,41</td><td>140,22</td><td> 02/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,83</td><td>752,32</td><td>796,00</td><td>0,00</td><td>796,00</td><td>632,26</td><td>84,05</td><td>126,35</td><td> 03/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,90</td><td>608,16</td><td>547,00</td><td>17,00</td><td>530,00</td><td>568,19</td><td>84,55</td><td>89,25</td><td> 04/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,77</td><td>948,41</td><td>1062,00</td><td>0,00</td><td>1062,00</td><td>523,09</td><td>83,62</td><td>143,23</td><td> 05/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,56</td><td>1079,50</td><td>1263,00</td><td>0,00</td><td>1263,00</td><td>518,76</td><td>82,12</td><td>152,46</td><td> 06/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,27</td><td>1016,60</td><td>1270,00</td><td>0,00</td><td>1270,00</td><td>501,89</td><td>80,05</td><td>114,53</td><td> 07/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,98</td><td>1023,60</td><td>1277,00</td><td>0,00</td><td>1277,00</td><td>481,38</td><td>77,97</td><td>112,30</td><td> 08/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,68</td><td>1024,86</td><td>1287,00</td><td>0,00</td><td>1287,00</td><td>455,08</td><td>75,83</td><td>147,62</td><td> 09/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,61</td><td>670,84</td><td>732,00</td><td>0,00</td><td>732,00</td><td>432,86</td><td>75,33</td><td>86,46</td><td> 10/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,53</td><td>579,09</td><td>649,00</td><td>0,00</td><td>649,00</td><td>425,88</td><td>74,76</td><td>60,10</td><td> 11/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,30</td><td>748,03</td><td>949,00</td><td>0,00</td><td>949,00</td><td>408,01</td><td>73,11</td><td>100,05</td><td> 12/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,08</td><td>763,77</td><td>956,00</td><td>0,00</td><td>956,00</td><td>422,87</td><td>71,54</td><td>103,39</td><td> 13/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,04</td><td>1044,05</td><td>1079,00</td><td>0,00</td><td>1079,00</td><td>491,02</td><td>71,25</td><td>194,61</td><td> 14/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,88</td><td>995,34</td><td>1132,00</td><td>0,00</td><td>1132,00</td><td>623,28</td><td>70,13</td><td>213,42</td><td> 15/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,92</td><td>1057,90</td><td>1024,00</td><td>0,00</td><td>1024,00</td><td>803,15</td><td>70,41</td><td>270,66</td><td> 16/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,91</td><td>964,53</td><td>973,00</td><td>0,00</td><td>973,00</td><td>985,15</td><td>70,34</td><td>352,31</td><td> 17/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,90</td><td>751,53</td><td>760,00</td><td>0,00</td><td>760,00</td><td>872,67</td><td>70,27</td><td>239,91</td><td> 18/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,80</td><td>1068,24</td><td>1153,00</td><td>0,00</td><td>1153,00</td><td>981,34</td><td>69,58</td><td>249,23</td><td> 19/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,82</td><td>1065,96</td><td>1049,00</td><td>0,00</td><td>1049,00</td><td>1082,35</td><td>69,72</td><td>183,59</td><td> 20/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,86</td><td>1084,90</td><td>1051,00</td><td>0,00</td><td>1051,00</td><td>980,10</td><td>70,00</td><td>185,05</td><td> 21/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,57</td><td>1012,22</td><td>1258,00</td><td>57,00</td><td>1201,00</td><td>804,06</td><td>67,99</td><td>148,15</td><td> 22/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,53</td><td>1085,10</td><td>1119,00</td><td>0,00</td><td>1119,00</td><td>688,90</td><td>67,71</td><td>134,46</td><td> 23/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,65</td><td>644,70</td><td>543,00</td><td>0,00</td><td>543,00</td><td>609,26</td><td>68,54</td><td>86,04</td><td> 24/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,96</td><td>558,72</td><td>296,00</td><td>0,00</td><td>296,00</td><td>551,53</td><td>70,69</td><td>85,34</td><td> 25/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,94</td><td>575,06</td><td>592,00</td><td>0,00</td><td>592,00</td><td>559,53</td><td>70,55</td><td>87,40</td><td> 26/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,79</td><td>861,87</td><td>989,00</td><td>0,00</td><td>989,00</td><td>640,12</td><td>69,51</td><td>279,57</td><td> 27/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,74</td><td>977,63</td><td>1020,00</td><td>0,00</td><td>1020,00</td><td>803,84</td><td>69,16</td><td>272,43</td><td> 28/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,79</td><td>1251,37</td><td>1209,00</td><td>0,00</td><td>1209,00</td><td>973,60</td><td>69,51</td><td>320,59</td><td> 29/02/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,93</td><td>1206,65</td><td>1088,00</td><td>0,00</td><td>1088,00</td><td>993,90</td><td>70,48</td><td>245,22</td><td> 01/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,85</td><td>879,21</td><td>947,00</td><td>0,00</td><td>947,00</td><td>828,32</td><td>69,93</td><td>192,89</td><td> 02/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,41</td><td>526,09</td><td>899,00</td><td>0,00</td><td>899,00</td><td>720,96</td><td>66,88</td><td>125,87</td><td> 03/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,29</td><td>933,88</td><td>1061,00</td><td>0,00</td><td>1061,00</td><td>691,82</td><td>66,04</td><td>159,39</td><td> 04/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,37</td><td>849,80</td><td>782,00</td><td>0,00</td><td>782,00</td><td>680,38</td><td>66,60</td><td>58,53</td><td> 05/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,53</td><td>917,59</td><td>782,00</td><td>0,00</td><td>782,00</td><td>849,97</td><td>67,71</td><td>43,93</td><td> 06/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,42</td><td>997,78</td><td>1091,00</td><td>0,00</td><td>1091,00</td><td>1051,77</td><td>66,94</td><td>191,48</td><td> 07/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,57</td><td>1124,12</td><td>997,00</td><td>0,00</td><td>997,00</td><td>1169,90</td><td>67,99</td><td>309,42</td><td> 08/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,76</td><td>1013,02</td><td>852,00</td><td>0,00</td><td>852,00</td><td>1469,02</td><td>69,30</td><td>348,31</td><td> 09/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,72</td><td>783,11</td><td>817,00</td><td>0,00</td><td>817,00</td><td>1587,71</td><td>69,03</td><td>287,88</td><td> 10/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,00</td><td>1024,29</td><td>787,00</td><td>0,00</td><td>787,00</td><td>1476,57</td><td>70,97</td><td>246,76</td><td> 11/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,13</td><td>1006,59</td><td>893,00</td><td>0,00</td><td>893,00</td><td>1258,95</td><td>71,90</td><td>195,41</td><td> 12/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,42</td><td>1117,40</td><td>864,00</td><td>0,00</td><td>864,00</td><td>1088,00</td><td>73,97</td><td>126,13</td><td> 13/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,46</td><td>1085,95</td><td>1051,00</td><td>0,00</td><td>1051,00</td><td>926,58</td><td>74,26</td><td>110,87</td><td> 14/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,42</td><td>1027,05</td><td>1062,00</td><td>0,00</td><td>1062,00</td><td>850,27</td><td>73,97</td><td>103,82</td><td> 15/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,41</td><td>995,26</td><td>1004,00</td><td>0,00</td><td>1004,00</td><td>808,69</td><td>73,90</td><td>149,97</td><td> 16/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,31</td><td>944,63</td><td>1032,00</td><td>0,00</td><td>1032,00</td><td>898,87</td><td>73,18</td><td>193,70</td><td> 17/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,46</td><td>1170,06</td><td>1039,00</td><td>0,00</td><td>1039,00</td><td>1069,03</td><td>74,26</td><td>209,41</td><td> 18/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,41</td><td>1231,31</td><td>1275,00</td><td>0,00</td><td>1275,00</td><td>1023,53</td><td>73,90</td><td>186,63</td><td> 19/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,51</td><td>1231,38</td><td>1144,00</td><td>0,00</td><td>1144,00</td><td>911,16</td><td>74,61</td><td>169,11</td><td> 20/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,34</td><td>1070,46</td><td>1219,00</td><td>0,00</td><td>1219,00</td><td>839,81</td><td>73,40</td><td>186,78</td><td> 21/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,07</td><td>918,07</td><td>1154,00</td><td>0,00</td><td>1154,00</td><td>749,88</td><td>71,47</td><td>148,58</td><td> 22/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,83</td><td>712,76</td><td>918,00</td><td>0,00</td><td>918,00</td><td>629,32</td><td>69,79</td><td>155,86</td><td> 23/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,88</td><td>586,37</td><td>544,00</td><td>0,00</td><td>544,00</td><td>549,99</td><td>70,13</td><td>100,83</td><td> 24/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,92</td><td>698,90</td><td>665,00</td><td>0,00</td><td>665,00</td><td>488,75</td><td>70,41</td><td>111,63</td><td> 25/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,73</td><td>859,98</td><td>1021,00</td><td>0,00</td><td>1021,00</td><td>461,81</td><td>69,09</td><td>120,60</td><td> 26/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,72</td><td>783,53</td><td>792,00</td><td>0,00</td><td>792,00</td><td>419,56</td><td>69,03</td><td>122,08</td><td> 27/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,85</td><td>660,17</td><td>550,00</td><td>0,00</td><td>550,00</td><td>374,33</td><td>69,93</td><td>82,91</td><td> 28/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,00</td><td>424,12</td><td>297,00</td><td>0,00</td><td>297,00</td><td>344,21</td><td>70,97</td><td>81,34</td><td> 29/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,22</td><td>489,23</td><td>297,00</td><td>0,00</td><td>297,00</td><td>355,77</td><td>72,54</td><td>91,35</td><td> 30/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,42</td><td>472,76</td><td>298,00</td><td>0,00</td><td>298,00</td><td>410,93</td><td>73,97</td><td>88,35</td><td> 31/03/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,45</td><td>908,22</td><td>882,00</td><td>0,00</td><td>882,00</td><td>453,74</td><td>74,18</td><td>87,54</td><td> 01/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,19</td><td>1026,81</td><td>1254,00</td><td>0,00</td><td>1254,00</td><td>417,91</td><td>72,33</td><td>104,73</td><td> 02/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,87</td><td>1026,81</td><td>1303,00</td><td>0,00</td><td>1303,00</td><td>400,10</td><td>70,07</td><td>86,77</td><td> 03/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,58</td><td>1037,22</td><td>1283,00</td><td>0,00</td><td>1283,00</td><td>367,26</td><td>68,05</td><td>98,48</td><td> 04/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,21</td><td>937,44</td><td>1251,00</td><td>0,00</td><td>1251,00</td><td>335,17</td><td>65,49</td><td>100,36</td><td> 05/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,24</td><td>508,43</td><td>483,00</td><td>77,00</td><td>406,00</td><td>323,07</td><td>65,70</td><td>54,32</td><td> 06/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,36</td><td>350,69</td><td>249,00</td><td>68,00</td><td>181,00</td><td>332,97</td><td>66,53</td><td>75,01</td><td> 07/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>475,20</td><td>549,41</td><td>685,00</td><td>0,00</td><td>685,00</td><td>373,84</td><td>65,42</td><td>76,66</td><td> 08/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,81</td><td>728,48</td><td>1059,00</td><td>0,00</td><td>1059,00</td><td>363,71</td><td>62,71</td><td>99,26</td><td> 09/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,28</td><td>762,82</td><td>1212,00</td><td>0,00</td><td>1212,00</td><td>346,52</td><td>59,04</td><td>98,43</td><td> 10/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,71</td><td>848,56</td><td>1324,00</td><td>0,00</td><td>1324,00</td><td>336,52</td><td>55,15</td><td>98,57</td><td> 11/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,30</td><td>887,31</td><td>1224,00</td><td>0,00</td><td>1224,00</td><td>333,98</td><td>52,39</td><td>111,61</td><td> 12/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,27</td><td>629,37</td><td>654,00</td><td>0,00</td><td>654,00</td><td>337,86</td><td>52,19</td><td>88,46</td><td> 13/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,40</td><td>645,75</td><td>539,00</td><td>0,00</td><td>539,00</td><td>797,35</td><td>53,06</td><td>410,26</td><td> 14/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,49</td><td>843,91</td><td>770,00</td><td>0,00</td><td>770,00</td><td>961,12</td><td>53,67</td><td>314,60</td><td> 15/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,37</td><td>830,46</td><td>929,00</td><td>0,00</td><td>929,00</td><td>912,52</td><td>52,86</td><td>284,95</td><td> 16/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,38</td><td>771,21</td><td>763,00</td><td>0,00</td><td>763,00</td><td>988,03</td><td>52,93</td><td>312,79</td><td> 17/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,44</td><td>585,27</td><td>536,00</td><td>0,00</td><td>536,00</td><td>1105,29</td><td>53,33</td><td>208,28</td><td> 18/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,87</td><td>655,11</td><td>302,00</td><td>0,00</td><td>302,00</td><td>1153,61</td><td>56,22</td><td>216,35</td><td> 19/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,99</td><td>400,54</td><td>302,00</td><td>0,00</td><td>302,00</td><td>962,06</td><td>57,03</td><td>153,50</td><td> 20/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,19</td><td>471,24</td><td>302,00</td><td>0,00</td><td>302,00</td><td>842,97</td><td>58,41</td><td>133,00</td><td> 21/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,35</td><td>437,60</td><td>302,00</td><td>0,00</td><td>302,00</td><td>784,50</td><td>59,52</td><td>115,17</td><td> 22/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,24</td><td>602,78</td><td>696,00</td><td>0,00</td><td>696,00</td><td>693,97</td><td>58,76</td><td>143,22</td><td> 23/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,75</td><td>525,30</td><td>934,00</td><td>0,00</td><td>934,00</td><td>645,37</td><td>55,42</td><td>112,43</td><td> 24/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,36</td><td>532,73</td><td>853,00</td><td>0,00</td><td>853,00</td><td>640,10</td><td>52,80</td><td>160,48</td><td> 25/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,88</td><td>573,83</td><td>968,00</td><td>0,00</td><td>968,00</td><td>661,08</td><td>49,57</td><td>120,82</td><td> 26/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>472,75</td><td>429,25</td><td>536,00</td><td>0,00</td><td>536,00</td><td>604,85</td><td>48,70</td><td>111,61</td><td> 27/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,10</td><td>696,41</td><td>409,00</td><td>0,00</td><td>409,00</td><td>940,63</td><td>51,05</td><td>379,07</td><td> 28/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>473,98</td><td>1377,65</td><td>655,00</td><td>0,00</td><td>655,00</td><td>1696,71</td><td>56,96</td><td>799,43</td><td> 29/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,20</td><td>1275,93</td><td>1090,00</td><td>0,00</td><td>1090,00</td><td>1684,91</td><td>58,48</td><td>595,34</td><td> 30/04/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>474,81</td><td>1043,97</td><td>527,00</td><td>0,00</td><td>527,00</td><td>1504,39</td><td>62,71</td><td>359,44</td><td> 01/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>476,80</td><td>2716,55</td><td>1009,00</td><td>143,00</td><td>866,00</td><td>4147,93</td><td>76,69</td><td>1741,72</td><td> 02/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,22</td><td>3131,99</td><td>2765,00</td><td>1443,00</td><td>1322,00</td><td>6405,23</td><td>79,69</td><td>1527,39</td><td> 03/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,11</td><td>4206,58</td><td>3426,00</td><td>2182,00</td><td>1244,00</td><td>6799,92</td><td>86,08</td><td>1460,63</td><td> 04/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,27</td><td>5602,02</td><td>5458,00</td><td>4373,00</td><td>1085,00</td><td>6101,48</td><td>87,26</td><td>1282,90</td><td> 05/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,64</td><td>3263,03</td><td>2930,00</td><td>1721,00</td><td>1209,00</td><td>4857,28</td><td>89,98</td><td>903,56</td><td> 06/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,49</td><td>2498,99</td><td>2634,00</td><td>1386,00</td><td>1248,00</td><td>3411,18</td><td>88,88</td><td>839,96</td><td> 07/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,35</td><td>2180,98</td><td>2307,00</td><td>1024,00</td><td>1283,00</td><td>2464,94</td><td>87,85</td><td>620,45</td><td> 08/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,31</td><td>2279,99</td><td>2316,00</td><td>1030,00</td><td>1286,00</td><td>1965,92</td><td>87,55</td><td>433,16</td><td> 09/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,28</td><td>1735,00</td><td>1762,00</td><td>489,00</td><td>1273,00</td><td>1675,69</td><td>87,33</td><td>325,04</td><td> 10/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,47</td><td>1849,02</td><td>1678,00</td><td>710,00</td><td>968,00</td><td>1688,20</td><td>88,73</td><td>270,77</td><td> 11/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,29</td><td>2520,99</td><td>2683,00</td><td>1872,00</td><td>811,00</td><td>2229,36</td><td>87,40</td><td>207,19</td><td> 12/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,30</td><td>2668,00</td><td>2659,00</td><td>1799,00</td><td>860,00</td><td>2580,23</td><td>87,48</td><td>242,08</td><td> 13/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,24</td><td>2308,00</td><td>2362,00</td><td>1290,00</td><td>1072,00</td><td>2457,79</td><td>87,04</td><td>334,73</td><td> 14/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,44</td><td>1814,01</td><td>1634,00</td><td>479,00</td><td>1155,00</td><td>2164,92</td><td>88,51</td><td>385,75</td><td> 15/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,47</td><td>1490,00</td><td>1463,00</td><td>286,00</td><td>1177,00</td><td>1667,53</td><td>88,73</td><td>252,28</td><td> 16/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,51</td><td>1955,01</td><td>1919,00</td><td>647,00</td><td>1272,00</td><td>1692,05</td><td>89,02</td><td>315,36</td><td> 17/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,50</td><td>3906,01</td><td>3915,00</td><td>2601,00</td><td>1314,00</td><td>2751,33</td><td>88,95</td><td>510,15</td><td> 18/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,53</td><td>4090,00</td><td>4063,00</td><td>2764,00</td><td>1299,00</td><td>4177,58</td><td>89,17</td><td>506,43</td><td> 19/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,45</td><td>3244,99</td><td>3317,00</td><td>2087,00</td><td>1230,00</td><td>4096,31</td><td>88,58</td><td>340,78</td><td> 20/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,58</td><td>2084,01</td><td>1967,00</td><td>694,00</td><td>1273,00</td><td>3025,59</td><td>89,54</td><td>185,14</td><td> 21/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,55</td><td>2302,00</td><td>2329,00</td><td>1057,00</td><td>1272,00</td><td>2471,02</td><td>89,32</td><td>216,49</td><td> 22/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,60</td><td>2147,00</td><td>2102,00</td><td>855,00</td><td>1247,00</td><td>2195,20</td><td>89,69</td><td>277,69</td><td> 23/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,76</td><td>2987,02</td><td>2843,00</td><td>1559,00</td><td>1284,00</td><td>2459,44</td><td>90,87</td><td>271,75</td><td> 24/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,91</td><td>3013,02</td><td>2878,00</td><td>1591,00</td><td>1287,00</td><td>3075,98</td><td>91,97</td><td>178,13</td><td> 25/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,84</td><td>2259,99</td><td>2323,00</td><td>1340,00</td><td>983,00</td><td>2674,28</td><td>91,46</td><td>82,75</td><td> 26/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,85</td><td>2013,00</td><td>2004,00</td><td>746,00</td><td>1258,00</td><td>2222,86</td><td>91,53</td><td>84,93</td><td> 27/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,94</td><td>2311,01</td><td>2230,00</td><td>1087,00</td><td>1143,00</td><td>2108,21</td><td>92,19</td><td>54,22</td><td> 28/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,94</td><td>2278,00</td><td>2278,00</td><td>1000,00</td><td>1278,00</td><td>2142,16</td><td>92,19</td><td>106,16</td><td> 29/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,01</td><td>1678,01</td><td>1615,00</td><td>647,00</td><td>968,00</td><td>1931,52</td><td>92,71</td><td>99,87</td><td> 30/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,80</td><td>1307,97</td><td>1497,00</td><td>581,00</td><td>916,00</td><td>1686,16</td><td>91,16</td><td>92,77</td><td> 31/05/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,76</td><td>1379,99</td><td>1416,00</td><td>434,00</td><td>982,00</td><td>1518,82</td><td>90,87</td><td>127,70</td><td> 01/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>479,25</td><td>1405,05</td><td>964,00</td><td>101,00</td><td>863,00</td><td>1405,78</td><td>94,48</td><td>102,60</td><td> 02/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,84</td><td>1395,96</td><td>1765,00</td><td>613,00</td><td>1152,00</td><td>1329,33</td><td>91,46</td><td>131,65</td><td> 03/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,71</td><td>1337,99</td><td>1455,00</td><td>199,00</td><td>1256,00</td><td>1211,69</td><td>90,50</td><td>176,04</td><td> 04/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,42</td><td>1123,97</td><td>1385,00</td><td>128,00</td><td>1257,00</td><td>1118,73</td><td>88,36</td><td>185,83</td><td> 05/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,58</td><td>1220,02</td><td>1076,00</td><td>41,00</td><td>1035,00</td><td>1048,54</td><td>89,54</td><td>153,41</td><td> 06/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,51</td><td>1103,99</td><td>1167,00</td><td>0,00</td><td>1167,00</td><td>971,48</td><td>89,02</td><td>123,37</td><td> 07/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,66</td><td>1091,02</td><td>956,00</td><td>0,00</td><td>956,00</td><td>891,89</td><td>90,13</td><td>126,86</td><td> 08/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,50</td><td>683,98</td><td>828,00</td><td>0,00</td><td>828,00</td><td>849,41</td><td>88,95</td><td>141,05</td><td> 09/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,41</td><td>908,98</td><td>990,00</td><td>0,00</td><td>990,00</td><td>772,87</td><td>88,29</td><td>164,87</td><td> 10/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,41</td><td>1099,00</td><td>1099,00</td><td>0,00</td><td>1099,00</td><td>695,89</td><td>88,29</td><td>172,83</td><td> 11/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,21</td><td>1049,98</td><td>1230,00</td><td>0,00</td><td>1230,00</td><td>630,75</td><td>86,82</td><td>152,70</td><td> 12/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>478,10</td><td>1031,00</td><td>1130,00</td><td>0,00</td><td>1130,00</td><td>580,94</td><td>86,00</td><td>166,91</td><td> 13/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,91</td><td>1039,34</td><td>1208,00</td><td>0,00</td><td>1208,00</td><td>556,76</td><td>84,62</td><td>164,16</td><td> 14/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,98</td><td>990,17</td><td>929,00</td><td>0,00</td><td>929,00</td><td>527,79</td><td>85,13</td><td>142,22</td><td> 15/06/2024</td>
+		</tr><tr>
+			<td>19069</td><td>MACHADINHO                                        </td><td>477,98</td><td>867,00</td><td>867,00</td><td>0,00</td><td>867,00</td><td>529,31</td><td>85,13</td><td>134,29</td><td> 16/06/2024</td>
+		</tr>
+	</table>
+</div>
